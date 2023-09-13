@@ -4,7 +4,7 @@ oofta
 
 git commit -m "enter your message here:"
 
-not Pato
+this is not Pato
 
 This is Max
 

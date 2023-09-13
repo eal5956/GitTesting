@@ -4,7 +4,7 @@ oofta
 
 git commit -m "enter your message here:"
 
-not Pato This is change lol
+JOHN not Pato This is change lol
 
 This is Max
 
